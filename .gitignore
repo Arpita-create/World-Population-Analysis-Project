@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+
+# Stray chart drafts at the repo root - the real charts live in charts/
+/*.png
+_preview_charts.py
