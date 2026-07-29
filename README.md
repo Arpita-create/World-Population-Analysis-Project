@@ -1,6 +1,6 @@
 
 
- World Population Analysis
+# World Population Analysis
 SQL Analysis and Python Visualisation
 
 An end-to-end population analytics project examining global demographic patterns across 234 countries and more than 3,900 data points.
